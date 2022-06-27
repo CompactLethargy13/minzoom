@@ -1,0 +1,8 @@
+{
+ "name": "minzoom",
+ "displayName": "minZoom",
+ "version": "1.52",
+ "author": "Mandu",
+ "minGameVersion": "136",
+ "hidden": "true"
+}
